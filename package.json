@@ -1,0 +1,12 @@
+{
+  "name": "@pradeeptalari/tp-production-secrets",
+  "version": "1.0.0",
+  "description": "Production Secrets & Rotation Studio",
+  "main": "index.js",
+  "scripts": {
+    "validate": "bash scripts/validate.sh"
+  },
+  "keywords": ["production-secrets", "vault", "aws-secrets-manager", "external-secrets-operator", "manim", "security"],
+  "author": "Pradeep Talari",
+  "license": "MIT"
+}
